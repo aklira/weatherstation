@@ -1,0 +1,5 @@
+host: localhost
+port: 1883
+user: ws_user
+pwd: somepassword
+topic: sensors
