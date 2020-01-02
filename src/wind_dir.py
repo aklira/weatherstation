@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# coding: utf-8
+# info
+__version__ = "0.1"
+__author__  = "Akli R"
+__date__    = "04/10/19"
+
 from gpiozero import MCP3008
 import time
 import math
